@@ -1,7 +1,7 @@
 {
   "name": "quick-cocos2d-x",
   "main": "./lib/atom-quick-cocos2d-x",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "quick-cocos2d-x develop plugin for Atom",
   "keywords": [
     "quick",
@@ -15,7 +15,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "readmeFilename": "README.md"
 }
