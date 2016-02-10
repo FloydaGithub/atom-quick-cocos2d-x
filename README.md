@@ -1,5 +1,17 @@
-# atom-quick-cocos2d-x package
+# quick-cocos2d-x
+> quick-cocos2d-x develop plugin for Atom
 
-A short description of your package.
+## Install
+```
+apm install quick-cocos2d-x
+```
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Usage
+- Run simulator when open the .lua file of quick3.5 project.  
+```
+'f5': 'quick-cocos2d-x:run'
+```
+
+## Todo
+- API snippets
+- create project

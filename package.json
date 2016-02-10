@@ -2,17 +2,20 @@
   "name": "quick-cocos2d-x",
   "main": "./lib/atom-quick-cocos2d-x",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "quick-cocos2d-x develop plugin for Atom",
   "keywords": [
+    "quick",
+    "cocos2dx"
   ],
   "activationCommands": {
     "atom-workspace": "quick-cocos2d-x:run"
   },
-  "repository": "https://github.com/atom/atom-quick-cocos2d-x",
+  "repository": "https://github.com/FloydaGithub/atom-quick-cocos2d-x",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-  }
+  },
+  "readmeFilename": "README.md"
 }
