@@ -1,7 +1,0 @@
-activate	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  activate: (state) ->$/;"	function	line:14
-deactivate	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  deactivate: ->$/;"	function	line:29
-serialize	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  serialize: ->$/;"	function	line:34
-toggle	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  toggle: ->$/;"	function	line:37
-joinFileToPath	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  joinFileToPath: (filePath) ->$/;"	function	line:45
-sendMsg	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  sendMsg: (content) ->$/;"	function	line:54
-run	/Users/floyda/github/atom-quick-cocos2d-x/lib/atom-quick-cocos2d-x.coffee	/^  run: ->$/;"	function	line:64
